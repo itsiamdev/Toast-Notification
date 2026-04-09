@@ -12,7 +12,7 @@ A simple and elegant toast notification system built with HTML, CSS, and JavaScr
 
 ## Demo
 
-View the live demo: [https://iam269.github.io/Toast-Notification/](https://iam269.github.io/Toast-Notification/)
+View the live demo: [https://itsiamdev.github.io/Toast-Notification/](https://itsiamdev.github.io/Toast-Notification/)
 
 ## Usage
 
